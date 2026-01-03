@@ -7,7 +7,7 @@ This project focuses on clean UI, smooth animations, state management, and real-
 <br>
 🚀 Live Preview
 https://suyashaditya919.github.io/webwiz-project/
-<br>
+<br><br>
 🛠️ Technologies Used<br>
 Frontend<br>
 React.js – Component-based UI development<br>
@@ -79,6 +79,7 @@ GitHub: https://github.com/SUYASHADITYA919<br>
 📱 Mobile app version<br>
 ❤️ Favorite & rating system<br>
 If you like this project, consider giving it a ⭐ on GitHub and enjoy my repos!<br>
+
 
 
 
