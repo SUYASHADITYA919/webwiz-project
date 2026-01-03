@@ -2,40 +2,27 @@ NAME: Suyash Aditya
 ROLL: 125ME0060
 
 🎌 INTERNOPEDIA
-One stop ai powered platform for global internships, manage your personal resume, and enjoy a smooth, interactive UI.
-
+One stop ai powered platform for global internships, manage your personal resume, and enjoy a smooth, interactive UI.<br>
 This project focuses on clean UI, smooth animations, state management, and real-world frontend practices.
-
+<br>
 🚀 Live Preview
 https://suyashaditya919.github.io/webwiz-project/
-
-🛠️ Technologies Used
-Frontend
-React.js – Component-based UI development
-
-React Router DOM – Client-side routing
-
-Tailwind CSS – Utility-first styling
-
-Framer Motion – Smooth animations & transitions
-
-State & Utilities
-
-React Hooks (useState, useEffect)
-
-LocalStorage – Persist watchlist data
-
-JavaScript (ES6+)
-
-Tools & Workflow
-
-Vite – Fast development environment
-
-Git & GitHub – Version control
-
-VS Code – Development IDE
-
-Gemini-Global data
+<br>
+🛠️ Technologies Used<br>
+Frontend<br>
+React.js – Component-based UI development<br>
+React Router DOM – Client-side routing<br>
+Tailwind CSS – Utility-first styling<br>
+Framer Motion – Smooth animations & transitions<br>
+State & Utilities<br>
+React Hooks (useState, useEffect)<br>
+LocalStorage – Persist watchlist data<br>
+JavaScript (ES6+)<br>
+Tools & Workflow<br>
+Vite – Fast development environment<br>
+Git & GitHub – Version control<br>
+VS Code – Development IDE<br>
+Gemini-Global data<br>
 <br>
 <br>
 ✨ Features
@@ -92,3 +79,4 @@ GitHub: https://github.com/SUYASHADITYA919<br>
 📱 Mobile app version<br>
 ❤️ Favorite & rating system<br>
 If you like this project, consider giving it a ⭐ on GitHub and enjoy my repos!<br>
+
