@@ -2,7 +2,7 @@ NAME: Suyash Aditya<br>
 ROLL: 125ME0060
 
 🎌 INTERNOPEDIA
-One stop ai powered platform for global internships, manage your personal resume, and enjoy a smooth, interactive UI.<br>
+One stop ai powered platform for global internships, manage your personal resume, and enjoy a smooth, interactive UI.<br><br>
 This project focuses on clean UI, smooth animations, state management, and real-world frontend practices.
 <br>
 🚀 Live Preview
@@ -79,5 +79,6 @@ GitHub: https://github.com/SUYASHADITYA919<br>
 📱 Mobile app version<br>
 ❤️ Favorite & rating system<br>
 If you like this project, consider giving it a ⭐ on GitHub and enjoy my repos!<br>
+
 
 
