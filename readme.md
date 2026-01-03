@@ -1,4 +1,4 @@
-NAME: Suyash Aditya
+NAME: Suyash Aditya<br>
 ROLL: 125ME0060
 
 🎌 INTERNOPEDIA
@@ -79,4 +79,5 @@ GitHub: https://github.com/SUYASHADITYA919<br>
 📱 Mobile app version<br>
 ❤️ Favorite & rating system<br>
 If you like this project, consider giving it a ⭐ on GitHub and enjoy my repos!<br>
+
 
